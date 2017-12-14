@@ -1,4 +1,4 @@
-# linear-equation-solver
+# Linear equation solver
 
 With this project you can solve a system of linear equations
 using one of the following methods:
