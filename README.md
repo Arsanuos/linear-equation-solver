@@ -1,36 +1,16 @@
-<snippet>
-  <content><![CDATA[
-# ${1: linear-equation-solver}
+# linear-equation-solver
 
-TODO: Write a project description
+With this project you can solve a system of linear equations
+using one of the following methods:
+* Gauss.
+* Gauss jordan.
+* Gauss seidel.
 
-## Installation
-
-TODO: Describe the installation process
-
-## Usage
-
-TODO: Write usage instructions
-
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-
-## History
-
-TODO: Write history
+and all the result will be represented in file and ploted in GUI.
 
 ## Credits
-
-TODO: Write credits
-
-## License
-
-TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+Ahmed Ezzat 
+Arsanuos Essa Attia
+Amr Hendy
+Muhammed Essam khamis
+Mohamed Elsayed Helmy
