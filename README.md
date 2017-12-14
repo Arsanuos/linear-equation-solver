@@ -9,8 +9,9 @@ using one of the following methods:
 and all the result will be represented in file and ploted in GUI.
 
 ## Credits
-Ahmed Ezzat 
-Arsanuos Essa Attia
-Amr Hendy
-Muhammed Essam khamis
-Mohamed Elsayed Helmy
+This poject developed by:
+* Ahmed Ezzat 
+* Arsanuos Essa Attia
+* Amr Hendy
+* Muhammed Essam khamis
+* Mohamed Elsayed Helmy
