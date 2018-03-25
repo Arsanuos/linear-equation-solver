@@ -16,4 +16,4 @@ This poject developed by:
 * Muhammed Essam khamis
 * Mohamed Elsayed Helmy
 
-You can find a root finder with matlabe [here](https://github.com/Arsanuos/Root-Finder)
+You can find a root finder with matlab [here](https://github.com/Arsanuos/Root-Finder)
