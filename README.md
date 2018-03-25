@@ -15,3 +15,5 @@ This poject developed by:
 * Amr Hendy
 * Muhammed Essam khamis
 * Mohamed Elsayed Helmy
+
+You can find a root finder with matlabe [here](https://github.com/Arsanuos/Root-Finder)
